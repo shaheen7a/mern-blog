@@ -1,8 +1,8 @@
 # MERN Blog
 
-![MERN Blog ](./client/src/assets/web-view01.png)
-![MERN Blog ](./client/src/assets/web-view02.png)
-![MERN Blog ](./client/src/assets/web-view03.png)
+![MERN Blog ](./src/assets/web-view01.png)
+![MERN Blog ](./src/assets/web-view02.png)
+![MERN Blog ](./src/assets/web-view03.png)
 
 
 ## Welcome! 👋
